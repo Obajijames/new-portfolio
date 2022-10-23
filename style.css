@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container1{
+    text-align: center;
+    padding: 0px 150px 0 150px;
+    font-family: cursive;
+    font-size: 50px;
+    background-color: rgb(221, 223, 224);
+    padd
+}
+.right{
+    padding-left: 500px;
+}
+.left{
+    float: left;
+    padding: 10px 200px;
+}
+.centre{
+    padding: 0 18px 0;
+}
+section{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    justify-items: center;
+    text-align: justify;
+    padding-bottom: 50px;
+}
+.pro{
+    padding: 80px 450px 0 450px;
+    text-align: center;
+}
+.skills{
+    text-align: center;
+    padding: 0 250px 0 250px;
+}
+.description2{
+    padding-top: 5px;
+}
+.subhead{
+    padding: 50px 0 50px;
+}
+.p1{
+    
+}
+.dot{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 50px 0 50px;
+}
+.comp{
+    float: left;
+}
+.student{
+    float: right;
+}
+.description{
+    text-align: left;
+}
+.text{
+    padding-bottom: 80px;
+}
+.description2{
+    text-align: left;
+}
+
+main{
+    background-color: rgb(218, 222, 226);
+    justify-items: center;
+    text-align: center;
+    padding: 0 150px 0 150px;
+}
+h4{
+    color: teal;
+    padding-bottom: 40px;
+}
+.gal{
+    color: limegreen;
+    text-decoration: underline teal 4px;
+    padding: 40px 0 10px;
+    text-underline-position: under;
+}
+.zoom{
+    padding: 20px;
+}
+h1,h3,p.teal{
+    color: teal;
+}
+p.teal{
+    font-size: 30px;
+}
+span{
+    text-decoration: underline;
+}
+.pic1,.pic2,.pic3,.pic4,.pic5,.pic6{
+    padding: 0px 5px 10px 5px;
+}
+.pic1:hover,.pic2:hover,.pic3:hover, .pic4:hover, .pic5:hover,.pic6:hover{
+    transform: scale(1.1);
+    transition-duration: 2s;
+}
+
+aside{
+    font-family: 'trebuchet MS';
+    justify-items: center;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.reach{
+    margin-bottom: 30px;
+}
+button:hover{
+    background-color: green;
+    transition-duration: 1.5s;
+    border: solid green;
+}
+button{
+    background-color: teal;
+    border: solid teal;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 0 10px 500px;
+}
+a.but{
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(7, 168, 168);
+    color: white;
+    padding: 15px 0 15px 0;
+}
+a.foot,ul,li{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    color: teal;
+    justify-content:center;
+    padding-bottom: 50px;
+    margin: 5px 40px;
+}
+footer,p{
+    font-family: 'trebuchet MS';
+    font-size: small;
+}
